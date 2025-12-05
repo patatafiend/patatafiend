@@ -1,9 +1,7 @@
 <!-- Top-left -->
-<p align="left">
-  <img src="https://media1.tenor.com/m/NqGNIBQZsoAAAAAd/overlord-ainz-ooal-gown.gif" height="40">
-</p>
 
 # 👋 Hi, I'm Renz Trimidal
+<img src="https://media.tenor.com/NqGNIBQZsoAAAAAM/overlord-ainz-ooal-gown.gif">
 <p align="right">
   <img src="https://media.tenor.com/PePEtHYGMosAAAAm/frieren-spinning-maxgames331535.webp" height="40">
 </p>
