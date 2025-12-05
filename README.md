@@ -13,7 +13,7 @@
 
 ---
 
-# 👋 Hi, I'm **YOUR NAME**
+# 👋 Hi, I'm Renz Trimidal
 
 ### 🧑‍💻 About Me
 - 💼 Currently working as a **Web Developer**
