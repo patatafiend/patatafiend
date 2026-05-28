@@ -1,7 +1,6 @@
 <!-- Top-left -->
 
 # 👋 Hi, I'm Renz Trimidal
-<img src="https://media.tenor.com/NqGNIBQZsoAAAAAM/overlord-ainz-ooal-gown.gif">
 
 ---
 
